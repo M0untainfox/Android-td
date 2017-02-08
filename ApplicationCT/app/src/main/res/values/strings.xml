@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gestion des entretiens</string>
+    <string name="btnCo">Se connecter</string>
+    <string name="btnEnter">Entrer</string>
+    <string name="MDPHint">••••••••••</string>
+    <string name="UserHint">Utilisateur</string>
+</resources>
